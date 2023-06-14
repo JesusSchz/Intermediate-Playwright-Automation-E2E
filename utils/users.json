@@ -1,0 +1,180 @@
+{
+	"users":[
+	  {
+		"FirstName": "Joss",
+		"LastName": "Lin",
+		"Email": "joss.lin@mail.com",
+		"PhoneNumber": "2022032801",
+		"Occupation": "Doctor",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Zander",
+		"LastName": "Willis",
+		"Email": "zander.willis@mail.com",
+		"PhoneNumber": "2022032802",
+		"Occupation": "Student",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Yash",
+		"LastName": "Brandt",
+		"Email": "yash.brandt@mail.com",
+		"PhoneNumber": "2022032803",
+		"Occupation": "Engineer",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Sahib",
+		"LastName": "Maguire",
+		"Email": "sahib.maguire@mail.com",
+		"PhoneNumber": "2022032804",
+		"Occupation": "Scientist",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Angelina",
+		"LastName": "Ramsey",
+		"Email": "angelina.ramsey@mail.com",
+		"PhoneNumber": "2022032805",
+		"Occupation": "Doctor",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Lorna",
+		"LastName": "David",
+		"Email": "lorna.david@mail.com",
+		"PhoneNumber": "2022032806",
+		"Occupation": "Student",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Kya",
+		"LastName": "Mclellan",
+		"Email": "kya.mclellan@mail.com",
+		"PhoneNumber": "2022032807",
+		"Occupation": "Engineer",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+	  {
+		"FirstName": "Georga",
+		"LastName": "Hester",
+		"Email": "georga.hester@mail.com",
+		"PhoneNumber": "2022032808",
+		"Occupation": "Scientist",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "false"
+	  },
+{
+		"FirstName": "Jossew",
+		"LastName": "Line",
+		"Email": "jossew.line@mail.com",
+		"PhoneNumber": "2022032809",
+		"Occupation": "Doctor",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Zanders",
+		"LastName": "Williss",
+		"Email": "zanders.williss@mail.com",
+		"PhoneNumber": "2022032810",
+		"Occupation": "Student",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Yashe",
+		"LastName": "Brandte",
+		"Email": "yashe.brandte@mail.com",
+		"PhoneNumber": "2022032811",
+		"Occupation": "Engineer",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Sahiba",
+		"LastName": "Maguirea",
+		"Email": "sahiba.maguirea@mail.com",
+		"PhoneNumber": "2022032812",
+		"Occupation": "Scientist",
+		"Gender": "male",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Angelinas",
+		"LastName": "Ramseys",
+		"Email": "angelinas.ramseys@mail.com",
+		"PhoneNumber": "2022032813",
+		"Occupation": "Doctor",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Lornas",
+		"LastName": "Davids",
+		"Email": "lornas.davids@mail.com",
+		"PhoneNumber": "2022032814",
+		"Occupation": "Student",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Kyaa",
+		"LastName": "Mclellana",
+		"Email": "kyaa.mclellana@mail.com",
+		"PhoneNumber": "2022032815",
+		"Occupation": "Engineer",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  },
+	  {
+		"FirstName": "Georgas",
+		"LastName": "Hesters",
+		"Email": "georgas.hesters@mail.com",
+		"PhoneNumber": "2022032816",
+		"Occupation": "Scientist",
+		"Gender": "female",
+		"Password": "Password1!",
+		"ConfirmPassword": "Password1!",
+		"isEighteenOrOlder" : "true"
+	  }
+	]
+}
